@@ -7,7 +7,7 @@ namespace TestWorkoutModel
     public class UnitTest1
     {
         [Fact]
-        public void Workout_ENdTime_ShouldReturn_11h45m() {
+        public void Workout_EndTime_ShouldReturn_11h45m() {
             // Arrange
             Workout workout = new Workout(
                 "survival run",
